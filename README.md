@@ -81,9 +81,19 @@ El proyecto está compuesto por los siguientes archivos:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - HTML5
 - CSS3 (con Bootstrap 5.3.3)
 - JavaScript Vanilla
 - `localStorage` para almacenamiento
+
+- 
+## Demostración en Línea - GitHub Pages
+
+Puedes probar el funcionamiento de la librería directamente aquí:
+
+[Ver demostración en línea](https://fatimamartinezlpz.github.io/Login/)
+
+
+     
