@@ -77,7 +77,7 @@ El proyecto está compuesto por los siguientes archivos:
 ![Bienvenida](./capturas/bienvenida.png)
 
 ###  Consola del navegador (registro exitoso)
-![Consola Registro](./capturas/login exito.png)
+![Consola Registro](./capturas/loginexito.png)
 
 ---
 
