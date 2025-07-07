@@ -70,14 +70,14 @@ El proyecto está compuesto por los siguientes archivos:
 ###  Login con logo circular y mensaje
 ![Login con Logo](./capturas/login.png)
 
-###  Registro de usuario
+###  Registro de usuario exitoso
 ![Registro](./capturas/registro.png)
+
+###  Acceso correcto
+![Consola Registro](./capturas/loginexito.png)
 
 ###  Mensaje de bienvenida
 ![Bienvenida](./capturas/bienvenida.png)
-
-###  Consola del navegador (registro exitoso)
-![Consola Registro](./capturas/loginexito.png)
 
 ---
 
