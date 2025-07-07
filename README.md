@@ -17,7 +17,7 @@ Este proyecto web permite a los usuarios registrarse e iniciar sesión en un sis
 
 ##  Documentación
 
-### 🏗 Estructura del Proyecto
+###  Estructura del Proyecto
 
 El proyecto está compuesto por los siguientes archivos:
 
